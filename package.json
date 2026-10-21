@@ -1,0 +1,38 @@
+{
+  "name": "is-neven",
+  "version": "1.0.0",
+  "description": "Returns true if input number is 'n-even'",
+  "keywords": [
+    "neven",
+    "is-neven",
+    "number",
+    "modulo",
+    "divisible",
+    "divisibility",
+    "divisor",
+    "check",
+    "predicate",
+    "utility"
+  ],
+  "homepage": "https://github.com/davidramsay95/is-neven#readme",
+  "bugs": {
+    "url": "https://github.com/davidramsay95/is-neven/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidramsay95/is-neven.git"
+  },
+  "license": "MIT",
+  "author": "David Ramsay",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "is-nodd": "^1.0.0"
+  }
+}
